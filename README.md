@@ -42,3 +42,21 @@
 
 
 ### For your project. Edit this README.md file to include your own project name,  overview, user stories, and usage. 
+
+Subdomains Project:
+
+Overview:
+Sudomains is a python tool designed to enumerate subdomains of websites. It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting.
+
+User story:
+As a user i want to enter my domain so that i can retrevie all subdomains
+
+
+
+
+Installation:
+git clone 
+
+Dependencies:
+Subdomains depends on the requests python modules.
+
